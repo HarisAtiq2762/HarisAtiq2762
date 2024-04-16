@@ -63,9 +63,13 @@ During the **Google Developer Students Club**, I discovered how to run the team 
 <h2 align="left">Support My Work:</h2>
 <p><a href="buymeacoffee.com/harisatiq1r"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="HarisAtiq2762" /></a></p><br><br>
 
-# 🏆 Badges
+# 🏆 My Badges
 
-| ![Pull Shark](/Media/Badges/Pull-Shark/PNG/PullShark.png)     | Pull Shark  | Opened a pull request that has been merged | <table>  <thead>  <tr>  <th>DEFAULT</th> <th>BRONZE</th>  <th>SILVER</th>  <th>GOLD</th>  </tr>  </thead>  <tbody>  <tr>  <td align="center"><img src="/Media/Badges/Pull-Shark/PNG/PullShark.png" width="60px"></td>   <td><img src="/Media/Badges/Pull-Shark/PNG/PullShark_Bronze.png" width="60px" align="center"></td>  <td><img src="/Media/Badges/Pull-Shark/PNG/PullShark_Silver.png" width="60px"></td>  <td><img src="/Media/Badges/Pull-Shark/PNG/PullShark_Gold.png" width="60px"></td>  </tr>  <tr>  <td align="center">2</td>  <td align="center">16</td>  <td align="center">128</td>  <td align="center">1024</td>  </tr>   </tbody>  </table>      |
+| Badge | Name 
+| :-: | :-: |
+| ![Pull Shark](/Media/Badges/Pull-Shark/PNG/PullShark.png)     | Pull Shark 
+
+
 
 # ⚙️ GitHub Analytics
   
@@ -82,7 +86,7 @@ During the **Google Developer Students Club**, I discovered how to run the team 
 
 
 # 📈 Contribution Graph  
- [![Haris Atiq's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=HarisAtiq2762&&theme=xcode)](https://github.com/HarisAtiq2762)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HarisAtiq2762&theme=github-compact)](https://github.com/HarisAtiq2762/HarisAtiq2762/github-readme-activity-graph)
 
  </div>
 
