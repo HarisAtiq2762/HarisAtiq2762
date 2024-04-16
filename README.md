@@ -22,7 +22,7 @@ I am <b>Haris Atiq</b> having <b>Computer Science Degree</b> from DHA Suffa Univ
  <h1 align="center">Connect with me</h1>
 
 <div align="center">
-<a  href="linkedin.com/in/haris-atiq-331a81205/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a  href="https://linkedin.com/in/haris-atiq-331a81205/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/HarisAtiq2762" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:harisatiq15@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -43,7 +43,7 @@ During the **Google Developer Students Club**, I discovered how to run the team 
 
 > ### "Believe you can and you're halfway there!"
 
-**I am always up for open-source contributions, let's collaborate together!**
+**I am always up for exciting projects, let's collaborate!**
 
 
 <h1 align="center">💻 Projects</h1>
