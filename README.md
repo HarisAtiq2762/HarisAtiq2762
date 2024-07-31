@@ -6,7 +6,7 @@
 <img width="40%" align="right"   src="https://user-images.githubusercontent.com/90326051/163715255-a025d887-bdf0-4801-afd9-929c9d876190.png" > -->
 
 <!-- ![MyGithubBanner](https://user-images.githubusercontent.com/90326051/192113603-d802367b-14e0-462e-9d30-e138caef5898.png) -->
-![GitHubBanner](https://media.licdn.com/dms/image/D4D16AQHt-_WG_c7jKQ/profile-displaybackgroundimage-shrink_350_1400/0/1683569104924?e=1718841600&v=beta&t=--Kl5p2T84hSQ7kPcItl-_pAs828JRojfZwl36Ts1fQ)
+![GitHubBanner](https://media.licdn.com/dms/image/D4D16AQHt-_WG_c7jKQ/profile-displaybackgroundimage-shrink_350_1400/0/1683569104924?e=1727913600&v=beta&t=l_wK1xzYRx55Kp3ymgwKPHsK_q7qJ46mfa5LvxB5bsg)
 
 
 <!-- <h3>About me,</h3> -->
