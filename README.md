@@ -68,8 +68,7 @@ During the **Google Developer Students Club**, I discovered how to run the team 
 | Badge | Name 
 | :-: | :-: |
 | ![Pull Shark](/Media/Badges/Pull-Shark/PNG/PullShark.png)     | Pull Shark 
-
-
+| ![Messaging with Firebase](https://developers.google.com/static/profile/badges/playlists/firebase/messaging-with-firebase/messaging-with-firebase.svg)| Messaging with Firebase
 
 # ⚙️ GitHub Analytics
   
