@@ -1,36 +1,11 @@
-<!-- 
-![reame4](https://user-images.githubusercontent.com/90326051/164891150-8bc4a1d8-b9df-4a83-8857-3cf47e320658.png) 
-
-<h1 align="center" >Hey, I'm <a href="https://www.linkedin.com/in/HarisAtiq2762/" target="_blank"> Haris Atiq 👋</a>
-  </br>
-<img width="40%" align="right"   src="https://user-images.githubusercontent.com/90326051/163715255-a025d887-bdf0-4801-afd9-929c9d876190.png" > -->
-
-<!-- ![MyGithubBanner](https://user-images.githubusercontent.com/90326051/192113603-d802367b-14e0-462e-9d30-e138caef5898.png) -->
 ![GitHubBanner](https://media.licdn.com/dms/image/D4D16AQHt-_WG_c7jKQ/profile-displaybackgroundimage-shrink_350_1400/0/1683569104924?e=1727913600&v=beta&t=l_wK1xzYRx55Kp3ymgwKPHsK_q7qJ46mfa5LvxB5bsg)
 
-
-
-<!-- <h3>About me,</h3> -->
 <h1 align="center"> About me</h1>
+<h3 align="center">Flutter Developer | Top-Rated | HeyFlutter </h3>
 
-I am <b>Haris Atiq</b> having <b>Computer Science Degree</b> from DHA Suffa University, Always want to learn about new technologies. <b>Experienced Flutter Developer</b> with the side skills of : .Net Framework , WinForms , Firebase, Doodle Videos, Video Editing, Javascript, C , C++, C# , Dart. 
+I am <b>Haris Atiq</b> having <b>Computer Science Degree</b> from DHA Suffa University, Always want to learn about new technologies. <b>Experienced Flutter Developer</b> with the side skills of : .Net Framework , WinForms , Firebase, Doodle Videos, Video Editing, Javascript, C , C++, C# , Dart.
 
 > ### I firmly believe in <b>Learning</b>, <b>Building</b> new things, and <b>Contributing</b> to worthwhile real-world projects.❤
-
-<h3 align="center">Flutter Developer | Top-Rated | HeyFlutter </h3>
-   <div align="center">
-
- <h1 align="center">Connect with me</h1>
-
-<div align="center">
-<a  href="https://linkedin.com/in/haris-atiq-331a81205/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/HarisAtiq2762" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:harisatiq15@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</div>
-
- 
- <div align="center">
 
 <h1>🛠 Technical Skills</h1>
    
@@ -46,6 +21,7 @@ During the **Google Developer Students Club**, I discovered how to run the team 
 
 **I am always up for exciting projects, let's collaborate!**
 
+<div align="center">
 <h3>Frontend</h3>
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
@@ -78,25 +54,74 @@ During the **Google Developer Students Club**, I discovered how to run the team 
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
 </p>
 
-
-
 <h1 align="center">💻 Projects</h1>
 
+|                             Project Name                             | Description                                                                        |
+| :------------------------------------------------------------------: | :--------------------------------------------------------------------------------- |
+| [Ar Core Demo](https://github.com/HarisAtiq2762/flutter_arcore_demo) | A Demo of AR core with Flutter                                                     |
+|    [Khana Bachao](https://github.com/HarisAtiq2762/khana_bachao)     | A mobile app as a solution to cater to the wastage of food in restaurants          |
+|  [Gen-x](https://github.com/HarisAtiq2762/gen_x_healthcare_system)   | A mobile app as a solution to cater the vitals monitoring by using the IoT devices |
+|      [Car Motors](https://github.com/HarisAtiq2762/car_motors)       | A demo of a beautiful Car Showroom App using Flutter as it's Tech.                 |
+|         [Todo App](https://github.com/HarisAtiq2762/todoapp)         | A basic todo app build with flutter_bloc                                           |
 
-| Project Name      | Description | 
-| :---:        |    :----   |  
-| [Ar Core Demo](https://github.com/HarisAtiq2762/flutter_arcore_demo)  | A Demo of AR core with Flutter
-| [Khana Bachao](https://github.com/HarisAtiq2762/khana_bachao)  | A mobile app as a solution to cater to the wastage of food in restaurants 
-| [Gen-x](https://github.com/HarisAtiq2762/gen_x_healthcare_system)  | A mobile app as a solution to cater the vitals monitoring by using the IoT devices
-| [Car Motors](https://github.com/HarisAtiq2762/car_motors) | A demo of a beautiful Car Showroom App using Flutter as it's Tech.
+# 📹 My Flutter Tutorials
 
+<div align="center">
 
+  <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px;">
+    <a href="https://www.youtube.com/watch?v=xUU7GCrmcZw" target="_blank" style="text-decoration: none;">
+      <img src="https://img.youtube.com/vi/xUU7GCrmcZw/0.jpg" alt="Flutter Tutorial: Building a Real-Time Chat App" style="width: 100%; border-radius: 8px;"/>
+      <div align="center"><b>Flutter Tutorial: Building a Real-Time Chat App</b></div>
+    </a>
+    <a href="https://www.youtube.com/watch?v=ODt1ORP0SpM" target="_blank" style="text-decoration: none;">
+      <img src="https://img.youtube.com/vi/ODt1ORP0SpM/0.jpg" alt="Firebase Authentication with Flutter" style="width: 100%; border-radius: 8px;"/>
+      <div align="center"><b>Firebase Authentication with Flutter</b></div>
+    </a>
+    <a href="https://youtube.com/watch?v=oIzwUPr6Eow" target="_blank" style="text-decoration: none;">
+      <img src="https://img.youtube.com/vi/oIzwUPr6Eow/0.jpg" alt="Flutter State Management: BLoC Pattern" style="width: 100%; border-radius: 8px;"/>
+      <div align="center"><b>Flutter State Management: BLoC Pattern</b></div>
+    </a>
+    <a href="https://www.youtube.com/watch?v=0zgDF81ZLrQ" target="_blank" style="text-decoration: none;">
+      <img src="https://img.youtube.com/vi/0zgDF81ZLrQ/0.jpg" alt="Building a Flutter App with Firebase" style="width: 100%; border-radius: 8px;"/>
+      <div align="center"><b>Building a Flutter App with Firebase</b></div>
+    </a>
+    <a href="https://www.youtube.com/watch?v=qEKHpOum9nI" target="_blank" style="text-decoration: none;">
+      <img src="https://img.youtube.com/vi/qEKHpOum9nI/0.jpg" alt="Flutter for Beginners" style="width: 100%; border-radius: 8px;"/>
+      <div align="center"><b>Flutter for Beginners</b></div>
+    </a>
+    <a href="https://www.youtube.com/watch?v=MFvq0MdeKcI" target="_blank" style="text-decoration: none;">
+      <img src="https://img.youtube.com/vi/MFvq0MdeKcI/0.jpg" alt="Integrating Stripe Payments in Flutter" style="width: 100%; border-radius: 8px;"/>
+      <div align="center"><b>Integrating Stripe Payments in Flutter</b></div>
+    </a>
+    <a href="https://www.youtube.com/watch?v=622vOT8A1J0" target="_blank" style="text-decoration: none;">
+      <img src="https://img.youtube.com/vi/622vOT8A1J0/0.jpg" alt="Creating a Beautiful UI with Flutter" style="width: 100%; border-radius: 8px;"/>
+      <div align="center"><b>Creating a Beautiful UI with Flutter</b></div>
+    </a>
+    <a href="https://www.youtube.com/watch?v=6Q7WiakvOAo" target="_blank" style="text-decoration: none;">
+      <img src="https://img.youtube.com/vi/6Q7WiakvOAo/0.jpg" alt="Firebase Firestore Tutorial" style="width: 100%; border-radius: 8px;"/>
+      <div align="center"><b>Firebase Firestore Tutorial</b></div>
+    </a>
+    <a href="https://www.youtube.com/watch?v=rVI6IR1JiVA" target="_blank" style="text-decoration: none;">
+      <img src="https://img.youtube.com/vi/rVI6IR1JiVA/0.jpg" alt="Google Cloud Platform and Flutter Integration" style="width: 100%; border-radius: 8px;"/>
+      <div align="center"><b>Google Cloud Platform and Flutter Integration</b></div>
+    </a>
+    <a href="https://www.youtube.com/watch?v=G2L2BmNc8ow" target="_blank" style="text-decoration: none;">
+      <img src="https://img.youtube.com/vi/G2L2BmNc8ow/0.jpg" alt="Play Console: Managing Your Flutter Apps" style="width: 100%; border-radius: 8px;"/>
+      <div align="center"><b>Play Console: Managing Your Flutter Apps</b></div>
+    </a>
+    <a href="https://www.youtube.com/watch?v=t74y1-WrxPI" target="_blank" style="text-decoration: none;">
+      <img src="https://img.youtube.com/vi/t74y1-WrxPI/0.jpg" alt="App Store Connect: Publishing Your iOS Apps" style="width: 100%; border-radius: 8px;"/>
+      <div align="center"><b>App Store Connect: Publishing Your iOS Apps</b></div>
+    </a>
+    <a href="https://www.youtube.com/watch?v=NRNCA-n1OJ8" target="_blank" style="text-decoration: none;">
+      <img src="https://img.youtube.com/vi/NRNCA-n1OJ8/0.jpg" alt="Advanced Flutter Widgets" style="width: 100%; border-radius: 8px;"/>
+      <div align="center"><b>Advanced Flutter Widgets</b></div>
+    </a>
+  </div>
+</div>
 
-  
-
-<h2 align="left">Support My Work:</h2>
-<p><a href="buymeacoffee.com/harisatiq1r"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="HarisAtiq2762" /></a></p><br><br>
-
+<!-- <h2 align="left">Support My Work:</h2>
+<p><a href="buymeacoffee.com/harisatiq1r"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="HarisAtiq2762" /></a></p><br><br> -->
 
 # 🏆 My Badges
 
@@ -138,12 +163,75 @@ During the **Google Developer Students Club**, I discovered how to run the team 
       </tr>
 </table>
 
+# 📹 My Flutter Tutorials
 
+<div align="center">
 
+  <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px;">
+    <a href="https://www.youtube.com/watch?v=xUU7GCrmcZw" target="_blank" style="text-decoration: none;">
+      <img src="https://img.youtube.com/vi/xUU7GCrmcZw/0.jpg" alt="Flutter Tutorial: Building a Real-Time Chat App" style="width: 100%; border-radius: 8px;"/>
+      <div align="center"><b>Flutter Tutorial: Building a Real-Time Chat App</b></div>
+    </a>
+    <a href="https://www.youtube.com/watch?v=ODt1ORP0SpM" target="_blank" style="text-decoration: none;">
+      <img src="https://img.youtube.com/vi/ODt1ORP0SpM/0.jpg" alt="Firebase Authentication with Flutter" style="width: 100%; border-radius: 8px;"/>
+      <div align="center"><b>Firebase Authentication with Flutter</b></div>
+    </a>
+    <a href="https://youtube.com/watch?v=oIzwUPr6Eow" target="_blank" style="text-decoration: none;">
+      <img src="https://img.youtube.com/vi/oIzwUPr6Eow/0.jpg" alt="Flutter State Management: BLoC Pattern" style="width: 100%; border-radius: 8px;"/>
+      <div align="center"><b>Flutter State Management: BLoC Pattern</b></div>
+    </a>
+    <a href="https://www.youtube.com/watch?v=0zgDF81ZLrQ" target="_blank" style="text-decoration: none;">
+      <img src="https://img.youtube.com/vi/0zgDF81ZLrQ/0.jpg" alt="Building a Flutter App with Firebase" style="width: 100%; border-radius: 8px;"/>
+      <div align="center"><b>Building a Flutter App with Firebase</b></div>
+    </a>
+    <a href="https://www.youtube.com/watch?v=qEKHpOum9nI" target="_blank" style="text-decoration: none;">
+      <img src="https://img.youtube.com/vi/qEKHpOum9nI/0.jpg" alt="Flutter for Beginners" style="width: 100%; border-radius: 8px;"/>
+      <div align="center"><b>Flutter for Beginners</b></div>
+    </a>
+    <a href="https://www.youtube.com/watch?v=MFvq0MdeKcI" target="_blank" style="text-decoration: none;">
+      <img src="https://img.youtube.com/vi/MFvq0MdeKcI/0.jpg" alt="Integrating Stripe Payments in Flutter" style="width: 100%; border-radius: 8px;"/>
+      <div align="center"><b>Integrating Stripe Payments in Flutter</b></div>
+    </a>
+    <a href="https://www.youtube.com/watch?v=622vOT8A1J0" target="_blank" style="text-decoration: none;">
+      <img src="https://img.youtube.com/vi/622vOT8A1J0/0.jpg" alt="Creating a Beautiful UI with Flutter" style="width: 100%; border-radius: 8px;"/>
+      <div align="center"><b>Creating a Beautiful UI with Flutter</b></div>
+    </a>
+    <a href="https://www.youtube.com/watch?v=6Q7WiakvOAo" target="_blank" style="text-decoration: none;">
+      <img src="https://img.youtube.com/vi/6Q7WiakvOAo/0.jpg" alt="Firebase Firestore Tutorial" style="width: 100%; border-radius: 8px;"/>
+      <div align="center"><b>Firebase Firestore Tutorial</b></div>
+    </a>
+    <a href="https://www.youtube.com/watch?v=rVI6IR1JiVA" target="_blank" style="text-decoration: none;">
+      <img src="https://img.youtube.com/vi/rVI6IR1JiVA/0.jpg" alt="Google Cloud Platform and Flutter Integration" style="width: 100%; border-radius: 8px;"/>
+      <div align="center"><b>Google Cloud Platform and Flutter Integration</b></div>
+    </a>
+    <a href="https://www.youtube.com/watch?v=G2L2BmNc8ow" target="_blank" style="text-decoration: none;">
+      <img src="https://img.youtube.com/vi/G2L2BmNc8ow/0.jpg" alt="Play Console: Managing Your Flutter Apps" style="width: 100%; border-radius: 8px;"/>
+      <div align="center"><b>Play Console: Managing Your Flutter Apps</b></div>
+    </a>
+    <a href="https://www.youtube.com/watch?v=t74y1-WrxPI" target="_blank" style="text-decoration: none;">
+      <img src="https://img.youtube.com/vi/t74y1-WrxPI/0.jpg" alt="App Store Connect: Publishing Your iOS Apps" style="width: 100%; border-radius: 8px;"/>
+      <div align="center"><b>App Store Connect: Publishing Your iOS Apps</b></div>
+    </a>
+    <a href="https://www.youtube.com/watch?v=NRNCA-n1OJ8" target="_blank" style="text-decoration: none;">
+      <img src="https://img.youtube.com/vi/NRNCA-n1OJ8/0.jpg" alt="Advanced Flutter Widgets" style="width: 100%; border-radius: 8px;"/>
+      <div align="center"><b>Advanced Flutter Widgets</b></div>
+    </a>
 
+  </div>
+
+</div>
+
+ <h1 align="center">Connect with me</h1>
+
+<div align="center">
+<a  href="https://linkedin.com/in/haris-atiq-331a81205/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/HarisAtiq2762" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:harisatiq15@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</div>
 
 # ⚙️ GitHub Analytics
-  
+
 <table>
   <tr>
 <td><img height="180px" src="https://github-readme-stats.vercel.app/api?username=HarisAtiq2762&show_icons=true&theme=dark" />
@@ -155,9 +243,9 @@ During the **Google Developer Students Club**, I discovered how to run the team 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HarisAtiq2762&layout=compact&theme=dark" alt="HarisAtiq2762"/></p>
   </div>
 
+# 📈 Contribution Graph
 
-# 📈 Contribution Graph  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HarisAtiq2762&theme=github-compact)](https://github.com/HarisAtiq2762/HarisAtiq2762/github-readme-activity-graph)
+[![Haris's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HarisAtiq2762&theme=github-compact)](https://github.com/HarisAtiq2762/HarisAtiq2762/github-readme-activity-graph)
 
  </div>
 
