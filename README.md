@@ -9,6 +9,7 @@
 ![GitHubBanner](https://media.licdn.com/dms/image/D4D16AQHt-_WG_c7jKQ/profile-displaybackgroundimage-shrink_350_1400/0/1683569104924?e=1727913600&v=beta&t=l_wK1xzYRx55Kp3ymgwKPHsK_q7qJ46mfa5LvxB5bsg)
 
 
+
 <!-- <h3>About me,</h3> -->
 <h1 align="center"> About me</h1>
 
@@ -45,6 +46,39 @@ During the **Google Developer Students Club**, I discovered how to run the team 
 
 **I am always up for exciting projects, let's collaborate!**
 
+<h3>Frontend</h3>
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+</p>
+
+<h3>Backend</h3>
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C%2B%2B-F34B7F?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+</p>
+
+<h3>Tools</h3>
+<p>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Fastlane-00F3A3?style=for-the-badge&logo=fastlane&logoColor=white" alt="Fastlane" />
+  <img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+</p>
+
+<h3 align="center">Skill Badges</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+</p>
+
+
 
 <h1 align="center">💻 Projects</h1>
 
@@ -63,12 +97,50 @@ During the **Google Developer Students Club**, I discovered how to run the team 
 <h2 align="left">Support My Work:</h2>
 <p><a href="buymeacoffee.com/harisatiq1r"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="HarisAtiq2762" /></a></p><br><br>
 
+
 # 🏆 My Badges
 
-| Badge | Name 
-| :-: | :-: |
-| ![Pull Shark](/Media/Badges/Pull-Shark/PNG/PullShark.png)     | Pull Shark 
-| ![Messaging with Firebase](https://developers.google.com/static/profile/badges/playlists/firebase/messaging-with-firebase/messaging-with-firebase.svg)| Messaging with Firebase
+<table align="center" style="border: none;" border="0">
+  <tr>
+    <td align="center" style="border: none;">
+      <img src="/Media/Badges/Pull-Shark/PNG/PullShark.png" alt="Pull Shark" height="100" style="width:auto;" /><br/>
+      <b>Pull Shark</b>
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://developers.google.com/static/profile/badges/playlists/firebase/messaging-with-firebase/messaging-with-firebase.svg" alt="Messaging with Firebase" height="100" style="width:auto;" /><br/>
+      <b>Messaging with Firebase</b>
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://developers.google.com/static/profile/badges/playlists/firebase/add_firebase_to_flutter/firebase-flutter.svg" alt="Firebase and Flutter" height="100" style="width:auto;" /><br/>
+      <b>Firebase and Flutter</b>
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://developers.google.com/static/profile/badges/codelabs/first-codelab/badge.svg" alt="Completed 1+ Codelab" height="100" style="width:auto;" /><br/>
+      <b>Completed 1+ Codelab</b>
+    </td>
+  </tr>
+</table>
+
+<table align="center" style="border: none;" border="0">
+   <tr>
+<td align="center" style="border: none;">
+      <img src="https://developers.google.com/static/profile/badges/profile/created-profile/created_profile.svg" alt="Joined the Google Developer Program" height="100" style="width:auto;" /><br/>
+      <b>Joined Google Developer Program</b>
+    </td>
+     <td align="center" style="border: none;">
+      <img src="https://developers.google.com/static/profile/badges/playlists/first-playlist/badge.svg" alt="First Learning Pathway and Quiz badge" height="100" style="width:auto;" /><br/>
+      <b>First Learning Pathway and Quiz</b>
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://developers.google.com/static/profile/badges/activity/android/install-android-studio/badge.svg" alt="Android Studio User" height="100" style="width:auto;" /><br/>
+      <b>Android Studio User</b>
+    </td>
+      </tr>
+</table>
+
+
+
+
 
 # ⚙️ GitHub Analytics
   
