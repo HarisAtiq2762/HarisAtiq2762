@@ -1,4 +1,4 @@
-![GitHubBanner](https://media.licdn.com/dms/image/D4D16AQHt-_WG_c7jKQ/profile-displaybackgroundimage-shrink_350_1400/0/1683569104924?e=1727913600&v=beta&t=l_wK1xzYRx55Kp3ymgwKPHsK_q7qJ46mfa5LvxB5bsg)
+![GitHubBanner](https://media.licdn.com/dms/image/v2/D4E16AQEOI3oiUrE6sQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726309161909?e=1731542400&v=beta&t=GDWW_mnaoZnqglWnHzNY9w5VvWZ6PcCk00Q9vK8HQpE)
 
 <h1 align="center"> About me</h1>
 <h3 align="center">Flutter Developer | Top-Rated | HeyFlutter </h3>
